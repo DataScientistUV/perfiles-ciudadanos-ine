@@ -4,7 +4,7 @@
 
 # Perfiles ciudadanos de participación
 
-Repositorio del equipo THE DATA SCIENTIST, de la Universidad Veracruzana, para el Reto 1 del Hackathon INE 2026. Contiene la segmentación de 2,474 municipios de México en cuatro perfiles de participación ciudadana, con los Conteos Censales del INE de las elecciones federales de 2009 a 2024, K-Means y análisis espacial LISA.
+Repositorio del equipo THE DATA SCIENTISTS, de la Universidad Veracruzana, para el Reto 1 del Hackathon INE 2026. Contiene la segmentación de 2,474 municipios de México en cuatro perfiles de participación ciudadana, con los Conteos Censales del INE de las elecciones federales de 2009 a 2024, K-Means y análisis espacial LISA.
 
 ## Entregables
 
