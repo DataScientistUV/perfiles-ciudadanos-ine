@@ -10,6 +10,7 @@ Repositorio del equipo THE DATA SCIENTIST, de la Universidad Veracruzana, para e
 
 | # | Entregable | Ubicación |
 |---|---|---|
+| | Base de datos (39.4 MB) | [`INE_BASES_COMPRIMIDAS.zip`](https://github.com/DataScientistUV/perfiles-ciudadanos-ine/releases/download/datos/INE_BASES_COMPRIMIDAS.zip) |
 | 01 | Dashboard interactivo | [`dashboard/dashboard_perfiles_ciudadanos.html`](dashboard/dashboard_perfiles_ciudadanos.html) |
 | 02 | Fichas de perfil | [`fichas_perfil/fichas_perfil.pdf`](fichas_perfil/) |
 | 03 | Código fuente | [`codigo/perfiles_participacion_INE.ipynb`](codigo/perfiles_participacion_INE.ipynb) y [Google Colab](https://colab.research.google.com/drive/13FTYR5z3J44D6TMNP-WZz3UFed8v3tq4?usp=sharing) |
@@ -21,7 +22,7 @@ Repositorio del equipo THE DATA SCIENTIST, de la Universidad Veracruzana, para e
 ## Cómo ejecutar el código
 
 1. Abrir el cuaderno en [Google Colab](https://colab.research.google.com/drive/13FTYR5z3J44D6TMNP-WZz3UFed8v3tq4?usp=sharing).
-2. Guardar el archivo `INE_BASES_COMPRIMIDAS.zip` en Google Drive.
+2. Descargar [`INE_BASES_COMPRIMIDAS.zip`](https://github.com/DataScientistUV/perfiles-ciudadanos-ine/releases/download/datos/INE_BASES_COMPRIMIDAS.zip) (39.4 MB) y guardarlo sin descomprimir en Google Drive, en Mi unidad.
 3. Ejecutar todas las celdas. Al final se descarga un ZIP con el dashboard y las tablas de resultados.
 
 ## Equipo
